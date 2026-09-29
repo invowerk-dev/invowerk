@@ -1,0 +1,1 @@
+{"description":"E-invoice checker for ZUGFeRD, Factur-X, XRechnung and Peppol BIS. Free web tool, API and MCP.","mcpServers":{"invowerk":{"httpUrl":"https://api.invowerk.dev/mcp/"}},"name":"invowerk","version":"1.0.0"}
