@@ -13,6 +13,8 @@ invowerk checks e-invoices: ZUGFeRD 2.5.2 and Factur-X 1.09.2 PDFs, XRechnung 3.
 - **Pricing:** https://invowerk.dev/pricing
 - **E-Rechnung kostenlos prüfen:** https://invowerk.dev/tools/e-rechnung-pruefen
 - **llms.txt:** https://invowerk.dev/llms.txt
+- **Privacy policy:** https://invowerk.dev/privacy
+- **Support:** https://invowerk.dev/support
 
 ## MCP server
 
@@ -24,6 +26,8 @@ Claude Code:
 ```sh
 claude mcp add --transport http invowerk https://api.invowerk.dev/mcp/
 ```
+
+Claude Code: `/plugin marketplace add invowerk-dev/invowerk` then `/plugin install invowerk@invowerk` (set `INVOWERK_API_KEY` for your key).
 
 Cursor / Windsurf / Cline / Claude Desktop:
 
