@@ -1,0 +1,1 @@
+{"mcpServers":{"invowerk":{"headers":{"X-API-Key":"${INVOWERK_API_KEY:-}"},"type":"http","url":"https://api.invowerk.dev/mcp/"}}}
