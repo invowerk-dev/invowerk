@@ -63,6 +63,10 @@ One-click installs for every client: https://invowerk.dev/connect
 
 **Integrations** (n8n, Zapier, Make, Dify, SDKs and templates): https://github.com/invowerk-dev/invowerk-integrations
 
+## Templates
+
+Ready-made workflows: https://invowerk.dev/templates
+
 ## Links
 
 - **Website:** https://invowerk.dev/go/github
