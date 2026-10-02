@@ -61,7 +61,7 @@ Cursor / Windsurf / Cline / Claude Desktop:
 
 One-click installs for every client: https://invowerk.dev/connect
 
-**Integrations** (n8n, Zapier, Make, Workato, Dify, SDKs and templates): https://github.com/invowerk-dev/invowerk-integrations
+**Integrations** (n8n, Zapier, Make, Dify, SDKs and templates): https://github.com/invowerk-dev/invowerk-integrations
 
 ## Links
 
