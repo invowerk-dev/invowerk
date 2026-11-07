@@ -2,7 +2,7 @@
 
 **German e-invoices: create ZUGFeRD PDFs and XRechnung, check ZUGFeRD/Factur-X, XRechnung (KoSIT) and Peppol BIS. Free tool, API, MCP.**
 
-invowerk creates and checks e-invoices. In the browser it creates ZUGFeRD PDFs and XRechnung from a form and checks each file before download. It checks ZUGFeRD 2.5.2 and Factur-X 1.09.2 PDFs, XRechnung 3.0.2 (UBL and CII) and Peppol BIS Billing 3.0.21. XRechnung goes through the KoSIT validator; PDFs are also checked for PDF/A. Each check returns a report with the file's SHA-256, rule sets and result. Invoices are processed in memory, not stored. Free web tool; REST API and MCP server with 500 free credits a month.
+invowerk creates and checks e-invoices. In the browser it creates ZUGFeRD PDFs and XRechnung from a form and checks each file before download. It checks ZUGFeRD 2.5.2 and Factur-X 1.09.2 PDFs, XRechnung 3.0.2 (UBL and CII) and Peppol BIS Billing 3.0.21. XRechnung goes through the KoSIT validator; PDFs are also checked for PDF/A. Each check returns a report with the file's SHA-256, rule sets and result. Uploaded invoices are processed in memory, not stored. Free web tool; REST API and MCP server with 500 free credits a month.
 
 ## Quickstart
 
@@ -59,7 +59,7 @@ Cursor / Windsurf / Cline / Claude Desktop:
 
 One-click installs for every client: https://invowerk.dev/connect
 
-**Integrations** (n8n, Zapier, Make, Dify, SDKs and templates): https://github.com/invowerk-dev/invowerk-integrations
+**Integrations** (Dify, Python SDK and templates): https://github.com/invowerk-dev/invowerk-integrations
 
 ## Templates
 
